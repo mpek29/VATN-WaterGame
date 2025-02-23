@@ -25,7 +25,7 @@
 ## 📺 Gameplay Overview
 | 🎮 Main Menu | 📊 In-Game Statistics | 🏆 Endgame Rankings |
 |-----------|-----------|-----------|
-| <img src="assets/img/main_menu.png" width="300"> | <img src="assets/img/game_stats.png" width="300"> | <img src="assets/img/rankings.png" width="300"> |
+| <img src="assets/img/main_menu.png"> | <img src="assets/img/game_stats.png"> | <img src="assets/img/rankings.png"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
