@@ -1,0 +1,256 @@
+Lorsque on arrive dans le jeux, on a des valeur par default pour chaque ressources qui sont affichés
+On a donc une instance de "CountryRessources"
+
+On va aussi avoir une question et des propositions qui vont apparaitre.
+On a donc une instance de "QuizQuestion"
+
+Votre pays fait face à un grand nombre de feu de forêt:
+A - Utiliser l'eau sans retenu
+B - Prioriser les installations essentielles
+C - Garder l'eau pour les animaux
+D - Ne rien faire
+
+Vous pouvez réaliser un complexe de barage hydro-électrique:
+A - Vous faites ce choix malgré la destruction nécessaire de quelques habitats
+B - Vous réaliser un seul barage afin de réduire son impact
+C - Ne rien faire
+
+Votre pays est confronté à une grave sécheresse :
+A - Réaliser des campagnes de sensibilisation pour réduire la consommation d'eau
+B - Importer de l'eau d'autres pays
+C - Rationner strictement l'eau pour les besoins essentiels
+D - Ne rien faire
+
+En raison du changement climatique, les glaciers qui alimentent les rivières de votre pays sont en train de fondre rapidement, menaçant les ressources en eau :
+A - Mettre en place des mesures pour préserver les glaciers restants
+B - Diversifier les sources d'eau en investissant dans des techniques de dessalement
+C - Restreindre l'accès à l'eau potable uniquement aux zones urbaines
+D - Ignorer la situation en espérant que cela se résoudra naturellement
+
+Une pollution massive a contaminé la principale source d'eau potable du pays :
+A - Mettre en quarantaine la zone affectée et distribuer de l'eau potable depuis d'autres sources
+B - Utiliser des produits chimiques pour purifier l'eau contaminée
+C - Faire appel à des organisations internationales pour gérer la crise
+D - Attendre que la nature rétablisse l'équilibre par elle-même
+
+Votre pays est en proie à des inondations catastrophiques :
+A - Évacuer les zones à risque et fournir des abris d'urgence
+B - Renforcer les infrastructures pour mieux gérer les crues futures
+C - Utiliser des digues pour contenir les inondations dans les zones touchées
+D - Ignorer la situation en espérant que les eaux se retirent d'elles-mêmes
+
+Une entreprise privée propose une nouvelle technologie de purification d'eau coûteuse, mais très efficace :
+A - Investir dans cette technologie pour assurer l'accès à une eau propre pour tous
+B - Étudier la technologie mais chercher des alternatives moins coûteuses
+C - Dépendre des méthodes traditionnelles de purification de l'eau
+D - Refuser catégoriquement toute aide extérieure
+
+Les cultures agricoles consomment une grande quantité d'eau, entraînant des pénuries pour les communautés locales :
+A - Promouvoir des pratiques agricoles plus économes en eau
+B - Mettre en place des quotas stricts d'utilisation d'eau pour l'agriculture
+C - Prioriser l'eau pour l'irrigation au détriment des besoins humains
+D - Laisser les agriculteurs décider de leur propre utilisation de l'eau
+
+Une sévère diminution du niveau des nappes phréatiques menace l'approvisionnement en eau potable :
+A - Restreindre l'extraction d'eau pour les usages non essentiels
+B - Forer de nouveaux puits pour compenser la baisse des nappes phréatiques
+C - Importer de l'eau en grandes quantités pour combler la demande
+D - Ignorer la situation en espérant que les nappes se régénèrent naturellement
+
+Un accord international propose de partager les ressources en eau avec les pays voisins :
+A - Accepter l'accord pour favoriser la coopération et éviter les conflits
+B - Refuser l'accord pour préserver les ressources exclusivement pour votre pays
+C - Renégocier les termes de l'accord pour obtenir un avantage maximal
+D - Ignorer l'accord et continuer à gérer les ressources sans implication extérieure
+
+Une entreprise veut exploiter des sources d'eau potable rares dans une zone écologiquement fragile :
+A - Interdire toute exploitation pour protéger l'environnement
+B - Autoriser l'exploitation mais sous strictes régulations environnementales
+C - Vendre les droits d'exploitation pour des revenus économiques immédiats
+D - Ne pas prendre de décision et laisser l'entreprise agir comme bon lui semble
+
+Une forte demande touristique durant la saison sèche accroît la pression sur les réserves d'eau :
+A - Mettre en place des restrictions sur les activités touristiques consommant de l'eau
+B - Augmenter les prix de l'eau pour dissuader une consommation excessive
+C - Faire appel à d'autres pays pour répondre à la demande en eau des touristes
+D - Ignorer la situation et profiter des revenus touristiques sans ajustements
+
+Des conflits éclatent entre différentes régions de votre pays pour l'accès à l'eau :
+A - Médiation et négociation pour établir des accords équitables d'utilisation de l'eau
+B - Prioriser l'accès à l'eau pour la région la plus densément peuplée
+C - Autoriser chaque région à gérer ses propres ressources en eau sans intervention extérieure
+D - Ignorer les conflits et laisser les régions résoudre le problème elles-mêmes
+
+Une grande partie de vos réserves d'eau est contaminée par des produits chimiques toxiques provenant d'une usine industrielle :
+A - Fermer immédiatement l'usine responsable de la pollution
+B - Mettre en place des filtres pour purifier l'eau affectée
+C - Délocaliser les habitants des zones touchées vers des endroits plus sûrs
+D - Attendre que l'usine prenne des mesures de son propre chef pour résoudre le problème
+
+Des sécheresses prolongées menacent la sécurité alimentaire de votre pays :
+A - Investir dans des cultures résistantes à la sécheresse pour garantir la production alimentaire
+B - Importer massivement des denrées alimentaires pour pallier la pénurie
+C - Rationner les aliments de base pour garantir une distribution équitable
+D - Ignorer la crise alimentaire en espérant un retour des pluies
+
+Des organisations internationales proposent une assistance pour améliorer les infrastructures hydrauliques de votre pays :
+A - Accepter l'aide pour moderniser les systèmes d'approvisionnement en eau
+B - Refuser l'aide pour maintenir l'indépendance nationale
+C - Négocier les conditions de l'aide pour obtenir des avantages supplémentaires
+D - Ignorer l'offre d'aide et continuer à gérer les infrastructures sans implication extérieure
+
+Une industrie minière demande l'accès à des sources d'eau essentielles pour ses opérations :
+A - Accorder l'accès mais sous strictes conditions pour protéger la quantité et la qualité de l'eau
+B - Refuser catégoriquement l'accès pour préserver les ressources en eau
+C - Vendre les droits d'accès pour bénéficier financièrement de cette demande
+D - Ne pas prendre de décision et laisser l'industrie agir selon ses intérêts
+
+Des pluies torrentielles ont provoqué des glissements de terrain, obstruant les cours d'eau et menaçant les habitations proches :
+A - Mettre en place des mesures d'urgence pour évacuer les zones à risque
+B - Investir dans des systèmes de drainage pour prévenir de futures catastrophes
+C - Ignorer la situation et attendre que les glissements de terrain se stabilisent naturellement
+D - Laisser les habitants gérer la situation eux-mêmes sans intervention gouvernementale
+
+Des agriculteurs utilisent illégalement des méthodes d'irrigation qui épuisent les réserves d'eau :
+A - Appliquer des amendes et des sanctions sévères pour dissuader ces pratiques
+B - Éduquer les agriculteurs sur des méthodes d'irrigation plus durables
+C - Autoriser ces pratiques pour soutenir l'économie agricole
+D - Ignorer l'activité illégale en espérant qu'elle cesse d'elle-même
+
+Une crise politique avec un pays voisin entraîne la coupure de l'approvisionnement en eau provenant d'un fleuve partagé :
+A - Entamer des pourparlers diplomatiques pour résoudre la crise et rétablir l'approvisionnement
+B - Réduire la consommation d'eau dans le pays pour faire face à la pénurie
+C - Recourir à des mesures militaires pour garantir l'accès à l'eau
+D - Ignorer la crise et compter sur le retour à la normale des relations politiques
+
+Une augmentation de la demande en eau pour l'industrie provoque des tensions avec les communautés locales qui voient leurs sources asséchées :
+A - Implémenter des quotas stricts pour l'usage industriel de l'eau
+B - Favoriser les intérêts économiques de l'industrie au détriment des communautés locales
+C - Détourner temporairement l'eau des communautés pour répondre à la demande industrielle
+D - Laisser les parties concernées trouver leur propre solution à ce différend
+
+Une ONG propose un projet de reboisement massif pour protéger les bassins hydrologiques et réguler les cours d'eau :
+A - Soutenir activement le projet pour préserver les ressources en eau à long terme
+B - Étudier le projet mais sans s'engager financièrement pour sa réalisation
+C - Ignorer la proposition en sous-estimant son importance pour l'environnement
+D - Refuser toute intervention extérieure dans les politiques environnementales du pays
+
+Des rivières importantes sont détournées pour répondre aux besoins en eau d'une mégapole, laissant les populations rurales en pénurie :
+A - Réaliser des canaux pour redistribuer équitablement l'eau entre les zones urbaines et rurales
+B - Restreindre l'accès à l'eau pour les usages non prioritaires dans les zones urbaines
+C - Autoriser les zones urbaines à gérer l'eau selon leurs propres besoins sans intervention extérieure
+D - Laisser les populations affectées trouver leur propre solution à la pénurie d'eau
+
+Une industrie chimique propose d'utiliser des produits chimiques dans le traitement de l'eau pour garantir sa pureté, mais cela pourrait avoir des effets secondaires sur la santé publique :
+A - Investir dans des technologies alternatives plus sûres pour le traitement de l'eau
+B - Autoriser l'utilisation des produits chimiques sous strictes régulations et contrôles
+C - Ignorer les inquiétudes et adopter immédiatement la nouvelle méthode de traitement de l'eau
+D - Refuser catégoriquement l'utilisation de tout produit chimique dans le traitement de l'eau
+
+Une réserve naturelle cruciale pour la recharge des nappes phréatiques est menacée par un projet de développement touristique :
+A - Protéger la réserve en interdisant toute activité de développement dans la zone
+B - Autoriser le développement tout en mettant en place des mesures de conservation strictes
+C - Vendre les droits d'exploitation de la réserve pour générer des revenus
+D - Laisser le développement se faire sans aucune régulation
+
+Une région côtière est confrontée à une montée du niveau de la mer qui salinise les nappes phréatiques :
+A - Construire des barrages pour empêcher l'intrusion d'eau de mer dans les nappes phréatiques
+B - Déplacer les communautés affectées vers des zones moins vulnérables
+C - Ignorer la situation en espérant que la montée du niveau de la mer se stabilisera
+D - Encourager l'utilisation d'eau de mer dessalée pour pallier la salinisation des eaux souterraines
+
+Une multinationale propose d'exploiter des sources d'eau potable appartenant aux populations autochtones :
+A - Interdire catégoriquement l'accès à ces sources d'eau pour protéger les droits des populations autochtones
+B - Autoriser l'accès mais en garantissant une compensation juste pour les populations concernées
+C - Vendre les droits d'accès à l'eau pour obtenir des bénéfices économiques immédiats
+D - Laisser la multinationale décider de son propre accès à ces ressources en eau
+
+Une initiative de reforestation est proposée pour restaurer les bassins hydrologiques et limiter l'érosion des sols :
+A - Soutenir activement cette initiative pour protéger les ressources en eau à long terme
+B - Étudier le projet sans s'engager financièrement pour sa réalisation
+C - Ignorer la proposition en minimisant son impact potentiel sur la qualité de l'eau
+D - Refuser toute intervention extérieure dans les politiques de conservation du pays
+
+Un consortium privé propose de construire une série de barrages pour augmenter la réserve d'eau du pays :
+A - Autoriser la construction mais en imposant des mesures de protection de l'environnement
+B - Refuser tout projet de construction de barrage pour préserver les écosystèmes locaux
+C - Vendre les droits de construction des barrages pour obtenir des revenus financiers
+D - Laisser le consortium décider de la construction des barrages selon ses propres intérêts
+
+Un programme de recyclage des eaux usées est envisagé pour augmenter l'approvisionnement en eau :
+A - Soutenir le programme pour réutiliser l'eau de manière efficace et durable
+B - Étudier le programme mais sans s'engager financièrement pour sa mise en œuvre
+C - Ignorer le recyclage des eaux usées en préférant les sources d'eau traditionnelles
+D - Refuser catégoriquement le recyclage des eaux usées en raison de préoccupations sanitaires
+
+Une grave contamination des rivières due aux déchets industriels menace la vie aquatique et l'approvisionnement en eau potable :
+A - Imposer des réglementations strictes aux industries pour prévenir la pollution des rivières
+B - Dévier temporairement l'approvisionnement en eau des rivières contaminées vers d'autres sources
+C - Ignorer la contamination en espérant qu'elle se résorbe naturellement
+D - Laisser les industries décider de leurs propres méthodes de gestion des déchets
+
+Une coopération régionale est proposée pour gérer efficacement les ressources en eau partagées entre plusieurs pays :
+A - Soutenir activement la coopération pour éviter les conflits et garantir un usage équitable de l'eau
+B - Refuser toute coopération pour maintenir le contrôle total sur les ressources en eau du pays
+C - Négocier des conditions avantageuses pour le pays avant de s'engager dans la coopération
+D - Ignorer l'initiative de coopération et continuer à gérer les ressources sans implication extérieure
+
+Un projet d'irrigation massif est proposé pour augmenter la production alimentaire, mais cela entraînerait l'épuisement des sources d'eau :
+A - Mettre en œuvre le projet en utilisant des techniques d'irrigation plus efficaces et durables
+B - Limiter le projet d'irrigation pour éviter l'épuisement des ressources en eau
+C - Autoriser le projet sans aucune restriction pour maximiser la production alimentaire
+D - Refuser catégoriquement le projet pour protéger les ressources en eau existantes
+
+Une augmentation des températures due au changement climatique accélère l'évaporation des réservoirs d'eau :
+A - Installer des bâches ou des couvertures pour réduire l'évaporation des réservoirs
+B - Réduire la consommation d'eau pour compenser la perte due à l'évaporation
+C - Ignorer la situation en espérant que les précipitations augmenteront pour remplir les réservoirs
+D - Autoriser l'accès à d'autres sources d'eau pour compenser la perte due à l'évaporation
+
+Des populations rurales sont privées d'accès à l'eau potable en raison de la contamination des puits par des activités minières :
+A - Interdire les activités minières pour protéger les sources d'eau des populations locales
+B - Exiger des compensations financières pour les communautés affectées par la contamination
+C - Autoriser les activités minières mais en imposant des normes strictes de gestion des déchets
+D - Laisser les populations affectées gérer elles-mêmes la situation sans intervention gouvernementale
+
+Une urbanisation rapide entraîne une augmentation de la demande en eau dans les villes, mettant à rude épreuve les ressources disponibles :
+A - Encourager des pratiques d'économie d'eau dans les zones urbaines pour répondre à la demande croissante
+B - Limiter l'accès à l'eau pour les usages non essentiels dans les zones urbaines
+C - Ignorer la situation en espérant que de nouvelles sources d'eau seront découvertes
+D - Importer de l'eau depuis d'autres régions pour répondre à la demande croissante
+
+Des pénuries d'eau chroniques entraînent des conflits entre les agriculteurs et les habitants des villes pour l'accès aux ressources en eau :
+A - Établir des accords de partage équitable de l'eau entre les zones rurales et urbaines
+B - Prioriser l'accès à l'eau pour les zones urbaines en raison de leur densité de population
+C - Autoriser chaque région à gérer ses propres ressources en eau sans intervention extérieure
+D - Laisser les conflits se résoudre d'eux-mêmes sans intervention gouvernementale
+
+Des plans de construction de canaux pour détourner l'eau des zones rurales vers les zones urbaines sont proposés pour répondre à la demande croissante :
+A - Rejeter ces plans pour protéger l'accès des populations rurales à l'eau
+B - Mettre en place des canaux mais en régulant strictement la quantité d'eau détournée
+C - Autoriser les canaux sans restriction pour répondre aux besoins des zones urbaines
+D - Laisser les populations locales décider de l'utilisation des ressources en eau disponibles
+
+Une initiative de sensibilisation est lancée pour réduire la consommation d'eau domestique chez les citoyens :
+A - Soutenir activement cette initiative pour encourager des comportements économes en eau
+B - Étudier l'initiative sans s'engager financièrement pour sa mise en œuvre
+C - Ignorer la sensibilisation en considérant que la demande en eau est inévitable
+D - Refuser catégoriquement l'initiative en raison de possibles répercussions économiques
+
+Un programme d'éducation sur la gestion durable de l'eau est proposé dans les écoles pour sensibiliser les jeunes générations :
+A - Soutenir et financer ce programme pour intégrer la sensibilisation à la gestion de l'eau dans l'éducation
+B - Étudier le programme mais sans s'engager financièrement pour son implémentation
+C - Ignorer le besoin d'éducation sur la gestion de l'eau en considérant d'autres priorités
+D - Refuser le programme en pensant qu'il n'apportera pas de changement significatif
+
+Une proposition vise à taxer davantage les industries consommant de grandes quantités d'eau pour encourager l'économie d'eau :
+A - Mettre en place la taxe pour dissuader les usages excessifs de l'eau par les industries
+B - Étudier la proposition mais sans l'implémenter immédiatement
+C - Ignorer la proposition en faveur des intérêts économiques des industries
+D - Refuser la proposition craignant des répercussions négatives sur l'économie
+
+Des organisations internationales offrent une assistance pour la construction de systèmes de collecte d'eau de pluie :
+A - Accepter l'aide pour diversifier les sources d'approvisionnement en eau
+B - Étudier l'offre mais sans accepter immédiatement l'assistance
+C - Ignorer l'aide en préférant les méthodes traditionnelles d'approvisionnement en eau
+D - Refuser catégoriquement toute intervention extérieure dans la gestion de l'eau

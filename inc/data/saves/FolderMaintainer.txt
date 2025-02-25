@@ -1,0 +1,1 @@
+Here to prevent the save folder from being deleted when empty
